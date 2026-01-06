@@ -25,14 +25,19 @@ IDL3_CARDENAS_DAMIANI_FALCON_MANZANARES_MEDINA/
 │
 ├── data/
 │   ├── SEGUROS (respuestas).xlsx
+│   ├── seguros_codificado_normalizado.csv
 │   ├── seguros_codificado.csv
 │   ├── seguros_sintetico.csv
 │   ├── seguros_mixto.csv
 │
+├── dev_PP2A/
+│
 ├── notebooks/
 │   ├── SEGUROS_CODIFICADO.ipynb
-│   ├── modelos_predictivos.ipynb
+│   ├── SEGUROS_MIXTO.ipynb
+│   ├── SEGUROS_SINTETICO.ipynb
 │
+├── IDL3_CARDENAS_DAMIANI_FALCON_MANZANARES_MEDINA
 ├── README.md
 └── requirements.txt
 ```
