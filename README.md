@@ -30,6 +30,14 @@ IDL3_CARDENAS_DAMIANI_FALCON_MANZANARES_MEDINA/
 │   ├── seguros_sintetico.csv
 │   ├── seguros_mixto.csv
 │
+├── models/
+│   ├── modelo_logistic_mixto.pkl
+│   ├── modelo_logistic_real.pkl
+│   ├── modelo_logistic_sintetico.pkl
+│   ├── modelo_rf_mixto.pkl
+│   ├── modelo_rf_real.pkl
+│   ├── modelo_rf_sintetico.pkl
+│
 ├── dev_PP2A/
 │
 ├── notebooks/
